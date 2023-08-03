@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\jasper_lesson\Setting-Up-Java-Project-with-Jasper\.metadata\.plugins\org.eclipse.jdt.core
+1321807342.index
+406317032.index
+1865797976.index
